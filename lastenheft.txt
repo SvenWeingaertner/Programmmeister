@@ -1,21 +1,20 @@
 funktional:
-Das System Parkhaus muss die Anzahl der parkenden Autos mit den Parkplätzen abgleichen.
-Das System Parkhaus muss dem Kunden ermöglichen sein Auto an die Schranke zu fahren.
-Falls der Kunde das Fahrzeug an die Schränke fährt, muss das Kennzeichen und die Einfahrtszeit gespeichert und die Schranke geöffnet werden.
-Falls der Kunde einfährt, muss das System Parkhaus muss dem Kunden eine Einfahrtsquittung ausstellen.
+Das System Parkhaus muss die Anzahl der parkenden Autos mit den ParkplÃ¤tzen abgleichen.
+Das System Parkhaus muss dem Kunden ermÃ¶glichen sein Auto an die Schranke zu fahren.
+Falls der Kunde das Fahrzeug an die SchrÃ¤nke fÃ¤hrt, muss das Kennzeichen und die Einfahrtszeit gespeichert und die Schranke geÃ¶ffnet werden.
+Falls der Kunde einfÃ¤hrt, muss das System Parkhaus muss dem Kunden eine Einfahrtsquittung ausstellen.
 Falls der Kunde bezahlt hat, muss das System ihm erlauben, sein Auto heraus zu fahren.
 Falls der Kunde einen Notfall hat, muss das System ihm erlauben, sein Auto heraus zu fahren.
-Das System Parkhaus sollte die Anzahl der freien Parkplätze vor Einfahrt anzeigen.
+Das System Parkhaus sollte die Anzahl der freien ParkplÃ¤tze vor Einfahrt anzeigen.
 Das System Parkhaus sollte die Fahrzeuge einzeln Ein- und Ausfahren lassen.
-Das System Parkhaus sollte das Fahrzeug des Kunden an den nächsten freien Platz abstellen.
+Das System Parkhaus sollte das Fahrzeug des Kunden an den nÃ¤chsten freien Platz abstellen.
 
 Das System Parkhaus muss den Parkpreis aus der Parkzeit errechnen.
 
 nicht-funktional:
 Das System Parkhaus sollte das Fahrzeug des Kunden innerhalb von 5 Minuten auf dem zugewiesenen Parkplatz haben.
 Das System Parkhaus sollte das Fahrzeug des Kunden innerhalb von 5 Minuten aus dem Parkhaus heraus fahren.
-Das System Parkhaus sollte den Kunden außer der Einfahrtszeit und der Bezahlung nicht involvieren.
+Das System Parkhaus sollte den Kunden auÃŸer der Einfahrtszeit und der Bezahlung nicht involvieren.
 Das System Parkhaus sollte das Fahrzeug gegen Diebstahl und Einbruch sichern. 
 
 technisch:
-
