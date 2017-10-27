@@ -1,0 +1,11 @@
+1) Als Manager benötige ich zeitlich erfasste Rechnungen, um Kennzahlen und Statistiken erstellen zu können.
+2) Als Manager möchte ich eine graphische Möglichkeit Betriebsparameter zu ändern, um auf betrichliche Veränderungen reagieren zu können.
+3) Als Manager möchte ich eine effiziente Platzzuweisung, um einen Rückstau in Stoßzeiten verhindern zu können.
+4) Als Manager möchte ich das Kunden das Parkhaus erst nach Bezahlung verlassen können, um betrug vorbeigen zu können.
+4) Als Manager möchte ich das Kunden das Parkhaus während eines Notfalls verlassen können, um für die Sicherheit der Kunden garantieren zu können.
+5) Als Manager möchte ich das Kunden das Parkhaus nur während der Öffnungszeiten und bei verfügbaren Parkplätzen betreten können, um potenzielle Kunden nicht durch den schlechten Service verlieren zu können.
+6) Als Manager möchte ich ein Überwachungssystem, um mich vor Rechtlichen Konsequenzen schützen zu können.
+7) Als Parkplatzsuchender möchte ich angezeigt bekommen ob es noch freie Parkplätze gibt, um Zeit sparen zu können.
+8) Als Parkender möchte ich kontaktlos bezahlen können, um Zeit sparen zu können.
+9) Als Parkender möchte ich eine Rechnung, um  zu können.
+10) Als Stammkunde möchte ich einen Stellplatz zu einem verhandelten Tarif mieten, um einen garantierten Stellplatz und Preis erhalten zu können.
