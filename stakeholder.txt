@@ -1,0 +1,52 @@
+Steakholder-Analyse
+
+Wer sind die Stakeholder eines digitalisierten Parkhauses?
+•	Mitarbeiter
+•	Manager
+•	Kunden
+•	Anwohner
+•	Wartungsfirmen
+•	Stadt
+•	Firmenleiter umliegender Geschäfte
+•	Anwender der neuen Technik (User)
+
+Welche Stakeholder sind intern? Welche extern? Welche aktiv? Welche passiv?
+
+Interne Steakholder
+Mitarbeiter
+Manager
+Wartungsfirma
+Anwender der neuen Technik
+
+Externe Steakholder
+Kunden
+Anwohner
+Stadt
+Firmenleiter umliegender Geschäfte
+
+Aktiv	
+Mitarbeiter	
+Wartungsfirma	
+Manager	
+Stadt	
+Anwender der neuen Technik	
+
+Passiv
+Kunden
+Anwohner
+Firmenleiter umliegender Geschäfte
+
+Welche Konzepte für ein digitalisiertes Parkhaus stiftet welchen Nutzen für welche Stakeholder?
+a.	Automatische Zeiterfassung/Schranke
+b.	Effiziente Platzzuweisung
+c.	Komplette Videoüberwachung
+
+a)	Hat einen positiven Nutzen für den Manager da dieser dadurch Geld für Mitarbeiter wie Schrankwärter sparen kann. Im Gegenzug ist dies natürlich negativ für die Mitarbeiter.  
+b)	Hat einen negativen Einfluss auf Einweiser. Im Gegenzug dazu kann hier einiges an Zeit eingespart werden, was selbstverständlich im Sinne des Managers, der Kunden und der Stadt ist (weniger Rückstau auf den Straßen unter Volllast des Parkhauses). 
+c)	Ist im Sinne aller internen Steakholder da diese eine Absicherung gegenüber Wandalismus/Parkschäden haben. Kunden könnten allerdings hiermit Problemen gefilmt zu werden.
+
+Welche Konzepte für ein digitalisiertes Parkhaus verbessert das Leben welcher Stakeholder? Was wird für wen (a) einfacher (b) effizienter, produktiver (c) angenehmer?
+Eine komplette Digitalisierung sorgt für Zeitersparnis, was das nutzen des Parkhauses für die Kunden angenehmer macht. Desweitern ist es durch die Zeitersparnis selbstverständlich auch produktiver was ein netter Nebeneffekt für den Manager darstellt. Für die Mitarbeiter wird die Arbeit leichter da diese beispielsweise in der kalten Jahreszeit nicht durch das Parkhaus rennen müssen. Für Firmenleiter umliegender Geschäfte ist es effizienter, wenn pro Stunde mehr Kunden ein- und ausgeparkt werden können und so mehr Zeit in Ihren Geschäften verbringen können. 
+Welche Konzepte für Ihr digitalisiertes Parkhaus sind disruptiv? Welches Ihrer Konzepte für eine "bessere Welt" erfordert welchen Kommunikationsplan mit welchem Stakeholder?
+Der Kassenautomat und das automatische Schrankensystem wird die Berufe Kassierer und Schrankenwart verdrängen. Der Manager und Firmenleiter umliegender Geschäfte haben ein großes Interesse an der Digitalisierung des Parkhauses und haben ebenfalls viel Macht, was dafür sorgt, dass eine starke Einbeziehung dieser Steakholder in das Projekt bedeutet. Die Mitarbeiter werden uns nicht Wohlgesonnen sein durch den geringen Einfluss sollten wird diese nicht zu intensiv betrachten aber wir sollten sie trotzdem im Auge behalten. 
+
