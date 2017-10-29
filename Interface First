@@ -1,0 +1,235 @@
+package se_03;
+
+public interface KundenIF {
+	void setStammkunde();
+	boolean getStammkunde();
+	double getPrice();
+	double getTime();
+}
+
+package se_03;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.Assert;
+import org.junit.jupiter.api.Test;
+
+class KundenIFTest {
+	
+	Kunden a,b,c;
+
+	@Test
+	void setStammkunde_() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetStammkunde() {
+		assertTrue(a.getStammkunde());
+	}
+
+	@Test
+	void testGetPrice() {
+		assertEquals(a.getPrice(), 0.75);
+	}
+
+	@Test
+	void getTime_onePointFiveInput_ReturnsTrue() {
+		assertEquals(a.getTime(), 1.5);
+	}
+
+}
+
+
+package se_03;
+
+public class Kunden implements KundenIF {
+
+	@Override
+	public void setStammkunde() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean getStammkunde() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public double getPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double getTime() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
+
+
+
+
+
+package se_03;
+
+public interface ParkplatzIF {
+	void setReserved();
+	boolean getReserved();
+	void setBlocked();
+	boolean isBlocked();
+	void setState();
+	boolean getState();
+
+}
+
+
+package se_03;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ParkplatzIFTest {
+
+	
+	
+	
+	@Test
+	void testSetReserved() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetReserved() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testSetBlocked() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testIsBlocked() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testSetState() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetState() {
+		fail("Not yet implemented");
+	}
+
+}
+
+
+package se_03;
+
+public class Parkplatz implements ParkplatzIF {
+
+	@Override
+	public void setReserved() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean getReserved() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setBlocked() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean isBlocked() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setState() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean getState() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}
+
+
+package se_03;
+
+public interface SchrankeIF {
+boolean isOpen();
+boolean getState();
+void setState();
+}
+
+
+package se_03;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class SchrankeIFTest {
+
+	@Test
+	void testGetState() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testSetState() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testIsOpen() {
+		fail("Not yet implemented");
+	}
+
+}
+
+
+package se_03;
+
+public class Schranke implements SchrankeIF {
+
+	@Override
+	public boolean getState() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setState() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean isOpen() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}
