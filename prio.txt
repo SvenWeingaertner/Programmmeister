@@ -1,0 +1,77 @@
+    
+User Story 1
+Aufwand:			2
+Mehrwert:		5
+Strafe:				5
+Risiko:				1
+Priorisierung:	3.3333
+
+User Story 2
+Aufwand:			7
+Mehrwert:		7
+Strafe:				2
+Risiko:				3
+Priorisierung:	0.9
+
+User Story 3
+Aufwand:			9
+Mehrwert:		7
+Strafe:				2
+Risiko:				7
+Priorisierung:	0.5625
+
+User Story 4
+Aufwand:			2
+Mehrwert:		9
+Strafe:				2
+Risiko:				2
+Priorisierung:	2.75
+
+User Story 5
+Aufwand:			2
+Mehrwert:		9
+Strafe:				9
+Risiko:				2
+Priorisierung:	4.5
+
+User Story 6
+Aufwand:			2
+Mehrwert:		7
+Strafe:				5
+Risiko:				2
+Priorisierung:	3
+
+User Story 7
+Aufwand:			7
+Mehrwert:		9
+Strafe:				8
+Risiko:				4
+Priorisierung:	1.5454
+
+User Story 8
+Aufwand:			2
+Mehrwert:		5
+Strafe:				2
+Risiko:				1
+Priorisierung:	2.3333
+
+User Story 9
+Aufwand:			8
+Mehrwert:		4
+Strafe:				1
+Risiko:				5
+Priorisierung:	0.3846
+
+User Story 10
+Aufwand:			2
+Mehrwert:		3
+Strafe:				6
+Risiko:				1
+Priorisierung:	3
+
+User Story 11
+Aufwand:			9	
+Mehrwert:		3
+Strafe:				1
+Risiko:				3
+Priorisierung:	0.3333
