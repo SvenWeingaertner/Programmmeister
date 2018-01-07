@@ -1,0 +1,91 @@
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class RevenuesTest {
+	Revenues dailyRevenues,weeklyRevenues,monthlyRevenues,yearlyRevenues;
+	@Before
+	public void setUp() throws Exception {
+		 dailyRevenues = new dailyRevenues();
+		 weeklyRevenues = new weeklyRevenues();
+		 monthlyRevenues = new monthlyRevenues();
+		 yearlyRevenues = new yearlyRevenues();
+
+
+	}
+
+	@Test
+	public void testDailyRevenues() {
+		dailyRevenues.calculate();
+		assertEquals(dailyRevenues.revenues, 2);
+	}
+	
+	public void testWeeklyRevenues() {
+		weeklyRevenues.calculate();
+		assertEquals(weeklyRevenues.revenues, 2);
+	}
+	
+	public void testdMonthlyRevenues() {
+		monthlyRevenues.calculate();
+		assertEquals(monthlyRevenues.revenues, 2);
+	}
+	
+	public void testYearlyRevenues() {
+		yearlyRevenues.calculate();
+		assertEquals(yearlyRevenues.revenues, 2);
+	}
+
+}
+
+
+
+
+
+
+
+
+abstract public class Revenues {
+	public int revenues;
+	
+	public void calculate(){
+		getData();
+		calculateRevenues();
+	}
+	
+	 public void calculateRevenues(){
+		revenues=2; 
+	 }
+	
+	 abstract void getData();
+}
+
+
+public class dailyRevenues extends Revenues{
+	@Override
+	void getData() {	
+	}
+}
+
+
+public class weeklyRevenues extends Revenues{
+	@Override
+	void getData() {	
+	}
+}
+
+
+public class monthlyRevenues extends Revenues{
+	@Override
+	void getData() {
+	}
+}
+
+
+public class yearlyRevenues  extends Revenues{
+	@Override
+	void getData() {
+	}
+}
